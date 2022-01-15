@@ -5,7 +5,7 @@
 
 ## Define cluster-name as per your choice in "default" ##
 variable "cluster-name" {
-  default     = "cluster-AumKale-178"
+  default     = "cluster-178"
   type    = "string"
 }
 
